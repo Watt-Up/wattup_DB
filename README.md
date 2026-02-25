@@ -54,7 +54,7 @@ sudo docker-compose up -d --build
 ### 데이터 적재 (Data Import)
 FastAPI Importer를 통해 서울시 공공데이터를 DB에 적재합니다. (약 12,000+ 건)
 ```bash
-curl -X POST "[http://127.0.0.1:8000/import/seoul?confirm=true](http://127.0.0.1:8000/import/seoul?confirm=true)"
+curl -X POST "http://127.0.0.1:8000/import/seoul?confirm=true"
 ```
 
 ## 🔍 Data Validation
