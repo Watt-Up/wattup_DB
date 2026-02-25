@@ -86,7 +86,7 @@ SELECT stat_nm, ST_AsText(geom) FROM ev_station LIMIT 5;
 - **Database**: PostgreSQL 16 (PostGIS), MongoDB 7
 - **Language**: Python 3.12 (FastAPI)
 - **Infrastructure**: Docker, Docker Compose
-- **Data Source**: [공공데이터포털 - 한국환경공단 전기자동차 충전소 정보](https://www.data.go.kr/data/15012845/openapi.do)
+- **Data Source**: [공공데이터포털 - 한국환경공단 전기자동차 충전소 정보](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
 
 <table width="30%" align="center">
     <tr>
