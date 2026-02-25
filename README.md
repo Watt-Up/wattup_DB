@@ -98,7 +98,7 @@ SELECT stat_nm, ST_AsText(geom) FROM ev_station LIMIT 5;
         <td align="center"><img src="https://avatars.githubusercontent.com/u/100463930?s=400&u=a798be299466fc30cf00bfb1e3bf320ace817986&v=4" width="300px" /></td>
     </tr>
     <tr>
-        <td align="center"><b><a href="https://github.com/ZUZ1H3">임승민</a></b></td>
+        <td align="center"><b><a href="https://github.com/sm4640">임승민</a></b></td>
         <td align="center"><b><a href="https://github.com/Wooniq">한지운</a></b></td>
     </tr>
     <tr>
